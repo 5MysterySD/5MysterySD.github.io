@@ -21,12 +21,12 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: MysterySD                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Hi, there I am Java Dev and a School Student, tends to Provide and learn Python and Program Amazing Bots. Know more about me in About Section.    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  Tele-LeechX User Guide !!!
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://5MysterySD.github.io'
