@@ -1,23 +1,17 @@
 ---
-title: TeleLeechX Bot
-date: 2022-07-12 03:20:00 +0200
-categories: Project
+title: Getting Started
+date: 2022-07-16 03:20:00 +0530
+categories: Tele-LeechX
 tags: ["telegram", "python", "telegram-bot"]
 image: 
 ---
 
 ## Tele-LeechX
 
-🇹🇷 Telegram Leech bot supports 4GB files
-
-Do you want [Source Code?](https://github.com/5MysterySD/Tele-LeechX)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/5MysterySD/Tele-LeechX)
-
-## About
-
 A Powerful Pyrogram Based Telegram Leech Bot Modded by `MysterySD` to directly Leech to Telegram, with Multi Direct Links Support for Enhanced Leeching.
 You can enter your user session for 4gb upload. it's automatically understands you are premium and uploads files greater than 2 GB.
+
+Do you want [Source Code?](https://github.com/5MysterySD/Tele-LeechX)
 
 Deploy from main repo's readme. There is a guide.
 Bot commands will auto-setting by bot.
