@@ -1,6 +1,6 @@
 ---
 title: Getting Started
-date: 2022-07-16 03:20:00 +0530
+date: 2022-07-17 03:20:00 +0530
 categories: Tele-LeechX
 tags: ["telegram", "python", "telegram-bot"]
 image: 
